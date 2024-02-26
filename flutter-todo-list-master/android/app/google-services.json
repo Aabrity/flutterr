@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420072047920",
+    "project_id": "todoo-ae2dc",
+    "storage_bucket": "todoo-ae2dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420072047920:android:903af98a312373742474f5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyM1kl3WVPwN0Ixyjc8nFhfXTbfv-hzLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
